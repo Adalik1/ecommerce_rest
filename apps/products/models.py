@@ -6,7 +6,7 @@ from apps.base.models import BaseModel
 
 class MeasureUnit(BaseModel):
     """Model definition for MeasureUnit."""
-
+#holaaaaaaaaaaaaaaaaaaaa
     # TODO: Define fields here
     description = models.CharField('Descripción', max_length=50, blank=False, null=False, unique=True)
 
